@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 喜欢瞎逛Github :white_check_mark:
+#### 喜欢瞎逛Github
 <!--
 **WeYC/WeYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
